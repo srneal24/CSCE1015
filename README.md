@@ -2,12 +2,9 @@
 Assignment repository for UNT CSCE1015
 srn0128
 
-## steak
-$(steak)
-##EUID
 
-## Favorite Food
-$(steak)
+
+
 ##EUID
 srn0128
 ## Favorite Food
