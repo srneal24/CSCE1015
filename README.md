@@ -4,3 +4,7 @@ srn0128
 
 ## steak
 $(steak)
+##EUID
+
+## Favorite Food
+$(steak)
