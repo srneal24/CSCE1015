@@ -5,7 +5,5 @@ srn0128
 
 
 
-##EUID
-srn0128
 ## Favorite Food
 Steak
